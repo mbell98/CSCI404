@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "map": "cpp",
+        "*.tcc": "cpp",
+        "algorithm": "cpp",
+        "memory": "cpp",
+        "fstream": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "limits": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "string_view": "cpp",
+        "optional": "cpp"
+    }
+}
